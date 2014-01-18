@@ -1,0 +1,27 @@
+timestamps:
+  login: 1389879983207
+  lastteleport: 1389880628215
+  logout: 1389881662483
+ipAddress: 217.117.216.109
+lastlocation:
+  world: spawn
+  x: -50.54899014759703
+  y: 83.0
+  z: 1.720496879127369
+  yaw: 355.4994
+  pitch: 33.600014
+logoutlocation:
+  world: MineGames
+  x: -3.3000000119209307
+  y: 56.5
+  z: 281.30000001192093
+  yaw: -224.99985
+  pitch: 56.55007
+homes:
+  home:
+    world: MineGames
+    x: -24.119371117459913
+    y: 57.0
+    z: 264.724106416808
+    yaw: -169.2001
+    pitch: 31.200014

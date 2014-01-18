@@ -1,0 +1,20 @@
+timestamps:
+  login: 1390043020194
+  lastteleport: 1389990146279
+  logout: 1390043595823
+ipAddress: 192.168.15.1
+lastlocation:
+  world: spawn
+  x: -50.5
+  y: 83.0
+  z: 1.5
+  yaw: 355.4994
+  pitch: 33.600014
+logoutlocation:
+  world: minefreak24
+  x: -1007.5625622506114
+  y: 6.604431422463999
+  z: 530.3029399185128
+  yaw: 185.54997
+  pitch: 1.0499855
+afk: false

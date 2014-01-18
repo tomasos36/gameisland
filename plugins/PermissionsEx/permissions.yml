@@ -1,0 +1,656 @@
+groups:
+  Hrac:
+    prefix: '&7[&6Hrac&7] '
+    default: true
+    permissions:
+    - modifyworld.*
+    - essentials.motd
+    - essentials.help.*
+    - essentials.spawn
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - lwc.protect
+    - residence.create
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - multiverse.portal.access.*
+    - multiverse.access.world
+    worlds:
+      world:
+        permissions:
+        - creativegates.use
+  Novacek:
+    prefix: '&7[&cNovacek&7] '
+    default: true
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - lwc.protect
+    - residence.create
+    - residence.create
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+  VIP:
+    prefix: '&7[&2VIP&7] '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - lwc.protect
+    - essentials.motd
+    - essentials.msg
+    - residence.create
+    - treeassist.autoremove
+    - essentials.fly
+    - residence.create
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - ChestShop.shop.create.buy
+    - chestShop.shop.sell
+    - ChestShop.shop.buy
+    - essentials.hat
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.joinfullserver
+  +VIP:
+    prefix: '&7[&a+&2VIP&7] '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.motd
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.gamemode
+    - lwc.protect
+    - essentials.msg
+    - residence.create
+    - treeassist.autoremove
+    - essentials.fly
+    - residence.create
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - ChestShop.shop.create.buy
+    - chestShop.shop.sell
+    - ChestShop.shop.buy
+    - essentials.hat
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.joinfullserver
+  VyherceVIP:
+    prefix: '&7[&bWinnerVIP&7] '
+    permissions:
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.motd
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - lwc.protect
+    - essentials.msg
+    - residence.create
+    - treeassist.autoremove
+    - essentials.fly
+    - residence.create
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - ChestShop.shop.create.buy
+    - chestShop.shop.sell
+    - ChestShop.shop.buy
+    - essentials.hat
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.joinfullserver
+  Builder:
+    prefix: '&7[&bBuilder&7]&f '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.motd
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.kick
+    - residence.admin
+    - essentials.list
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - coreprotect.inspect
+    - lwc.admin
+    - essentials.hat
+    - essentials.gamemode
+    - worldedit.*
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.jails
+    - essentials.joinfullserver
+  Hl.Admin:
+    prefix: '&7[&9Hl.Admin&7] '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.motd
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tphere
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.afk
+    - essentials.kick
+    - residence.admin
+    - lwc.admin
+    - coreprotect.*
+    - essentials.time
+    - essentials.time.set
+    - essentials.afk
+    - essentials.ban
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.kick
+    - essentials.kill
+    - essentials.mute
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.vanish
+    - essentials.weather
+    - essentials.delwarp
+    - Rs.admin
+    - OpenInv.*
+    - ChestShop.admin
+    - essentials.enchant
+    - essentials.enchant.*
+    - essentials.list
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - pvptoggle.toggle
+    - iConomy.accounts.give
+    - essentials.gamemode
+    - worldedit.*
+    - essentials.give
+    - essentials.hat
+    - essentials.unban
+    - essentials.exp.give
+    - essentials.exp
+    - essentials.help.[pluginname]
+    - essentials.spawnmob.*
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.jails
+    - ChestShop.shop.create.buy
+    - essentials.joinfullserver
+  OP:
+    prefix: '&7[&2OP&7] '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.motd
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.kick
+    - residence.admin
+    - lwc.admin
+    - coreprotect.*
+    - essentials.time
+    - essentials.time.set
+    - essentials.afk
+    - essentials.ban
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.kick
+    - essentials.kill
+    - essentials.mute
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.vanish
+    - essentials.weather
+    - essentials.delwarp
+    - Rs.admin
+    - OpenInv.*
+    - ChestShop.admin
+    - essentials.enchant
+    - essentials.enchant.*
+    - essentials.list
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - pvptoggle.toggle
+    - iConomy.accounts.give
+    - essentials.gamemode
+    - worldedit.*
+    - essentials.give
+    - essentials.hat
+    - essentials.unban
+    - essentials.exp.give
+    - essentials.exp
+    - essentials.help.[pluginname]
+    - essentials.spawnmob.*
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.jails
+    - ChestShop.shop.create.buy
+    - essentials.joinfullserver
+  Majitel:
+    prefix: '&7[&4Root&7]&f '
+    suffix: ' &b '
+    permissions:
+    - '*'
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - pvptoggle.toggle
+  Admin:
+    prefix: '&7[&bAdmin&7]&f '
+    permissions:
+    - essentials.tp
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.motd
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.kick
+    - residence.admin
+    - essentials.list
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - coreprotect.inspect
+    - lwc.admin
+    - essentials.hat
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - pvptoggle.toggle
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.kick
+    - residence.admin
+    - essentials.list
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - coreprotect.*
+    - lwc.admin
+    - essentials.hat
+    - Rs.admin
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.jails
+    - ChestShop.shop.create.buy
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.joinfullserver
+    - essentials.vanish
+    - OpenInv.*
+  Helper:
+    prefix: '&7[&8Assistent&7] '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.motd
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.kick
+    - residence.admin
+    - essentials.list
+    - pvptoggle.admin
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - coreprotect.*
+    - lwc.admin
+    - essentials.hat
+    - Rs.admin
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.jails
+    - ChestShop.shop.create.buy
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.joinfullserver
+    - essentials.vanish
+    - OpenInv.*
+  Eventer:
+    prefix: '&7[&2Eventer&7]&f '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - essentials.msg
+    - essentials.setwarp
+    - essentials.tp
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.motd
+    - essentials.heal
+    - essentials.repair all
+    - essentials.repair
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.kick
+    - residence.create
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - coreprotect.inspect
+    - lwc.protect
+    - essentials.gamemode
+    - worldedit.*
+    - essentials.hat
+    - essentials.gamemode
+    - simplereserve.enter.kick
+    - simplereserve.kick.prevent
+    - essentials.joinfullserver
+  LP:
+    prefix: '&7[&4You&0Tober&7] '
+    permissions:
+    - modifyworld.*
+    - essentials.help.*
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.spawn
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.warp.list
+    - essentials.warp
+    - authme.player.*
+    - lwc.protect
+    - residence.create
+    - residence.create
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.holdings
+    - essentials.motd   
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.list
+    - pvptoggle.toggle
+    - pvptoggle.self
+    - essentials.joinfullserver
+    - essentials.msg
+    - essentials.tp
+    - essentials.tphere
+    - treeassist.autoremove
+    - essentials.fly
+users:
+  tomasos36:
+    group:
+    - Majitel
+  Koppis:
+    group:
+    - Builder
+  minefreak24:
+    group:
+    - Majitel
+  simonides:
+    group:
+    - Helper
+  Smajlda00:
+    group:
+    - Hl.Admin
+  naomi6969:
+    group:
+    - Admin
+  _Tiger_Girl_:
+    group:
+    - Eventer
+  123creeperbros:
+    group:
+    - Builder
+  lolpink7:
+    group:
+    - LP
+  tomasos36-test:
+    group:
+    - Builder

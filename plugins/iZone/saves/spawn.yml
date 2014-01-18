@@ -1,0 +1,15 @@
+border1:
+  x: -114
+  y: 50
+  z: -56
+world: spawn
+border2:
+  x: -12
+  y: 126
+  z: 52
+creation-date: 1389989619350
+flag:
+  protection: true
+  interact: true
+allowed:
+- o:tomasos36
